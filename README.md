@@ -1,2 +1,3 @@
 # botDiscord  
-testando git
+Bot desenvolvido para uso pessoal.
+Att. Amorim
