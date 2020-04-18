@@ -1,0 +1,18 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "\"bot para o discord\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/AmorimFrv/botDiscord"
+  },
+  "author": "\"Cauê Amorim\"",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
