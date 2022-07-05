@@ -13,7 +13,7 @@
   "author": "\"Cauê Amorim\"",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "discord.js": "^12.2.0",
     "ffmpeg-static": "^4.1.1",
     "ytdl-core": "^2.1.0"
